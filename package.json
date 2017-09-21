@@ -1,6 +1,6 @@
 {
-  "name": "countdownchamp",
-  "version": "0.1.0",
+  "name": "countdowncham",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/immaulana/countdownchamp.git",
+  "author": "imam maulana <maulanaonwp@yahoo.com>",
+  "license": "MIT"
 }
